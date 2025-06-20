@@ -1,4 +1,10 @@
-# pyannoteAI AWS Marketplace Diarization model
+<p align="center">
+  <a href="https://pyannote.ai/" target="blank"><img src="https://avatars.githubusercontent.com/u/162698670" width="64" /></a>
+</p>
+
+<div align="center">
+    <h1>aws-marketplace-docs</h1>
+</div>
 
 This repository contains usage instructions for the [pyannoteAI AWS Marketplace Diarization Model](https://aws.amazon.com/marketplace/pp/prodview-mfmm2lfeq2q7u).
 
